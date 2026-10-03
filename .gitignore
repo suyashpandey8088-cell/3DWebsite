@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+shots/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*
+.env
+npm-debug.log*
+
+# sandbox / tooling caches
+.npm/
+.cache/
+.config/
+.local/
+.arena/
+.sudo_as_admin_successful
+.ssh/
